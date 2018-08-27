@@ -874,6 +874,12 @@ abbreviations:
       Agreements between Federal Government Departments such as Department of Labor,  Department of Justice, etc.
     cross_references:
 
+  IAA:
+    longform: Interagency agreement
+    description: |
+      Agreements between Federal Government Departments such as Department of Labor,  Department of Justice, etc.
+    cross_references:
+
   IBR:
     longform:
     description: |
@@ -896,6 +902,12 @@ abbreviations:
     longform: Invitation for bid
     description: |
       Used for sealed bidding, the IFB does not contain evaluation criteria. The offeror submits only a  price as their proposal and the Government must select the lowest price if the price is considered  fair and reasonable and the offeror meets responsibility qualifications. An invitation for bid is an  invitation to contractors or equipment suppliers, through a bidding process, to submit a proposal  on a specific project to be realized or product or service to be furnished. If not stated otherwise,  the contractor or supplier with the lowest bid is awarded the contract, provided that they meet the  minimum criteria for the bid. This is in contrast to a request for proposal (RFP), in which case  other reasons (technology used, quality, past performance) might cause or allow choice of  another offer.
+    cross_references:
+
+  IGCA:
+    longform: Intergovernmental Cooperation Act agreement
+    description: |
+      'An agreement between the federal government and a state or local government partner.'
     cross_references:
 
   IGCE:
